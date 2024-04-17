@@ -4,6 +4,7 @@ import { FaAngleRight } from 'react-icons/fa'
 import { useNavigate } from 'react-router-dom'
 import plusIcon from '../../public/images/plus.svg'
 import { IoAddOutline } from "react-icons/io5";
+import MobileTab from '../components/MobileTab'
 const WorkoutSchedule = () => {
   const navigate=useNavigate()
   const [currentDate, setCurrentDate]=useState(0)
@@ -50,6 +51,8 @@ time : '06:00 AM'
   time : '05:00 PM'
 }]
   return (
+    <>
+      <MobileTab/>
       <div className='relative w-full h-full '>
     <div className='flex px-4 flex-row pt-4 items-center mb-[14px] '>
         <button onClick={()=>navigate('/workout-tracker')} className='inline rounded-md bg-gray-50 p-1'>
@@ -105,6 +108,7 @@ Lowerbody Workout, 3pm
 
 </div>
 </div>
+    </>
   )
 }
 

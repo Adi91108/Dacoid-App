@@ -1,6 +1,7 @@
 import React from "react";
 import Button from "../components/Common/Button";
 import { useNavigate } from "react-router-dom";
+import MobileTab from "../components/MobileTab";
 const Goals = () => {
     const navigate=useNavigate()
   const goals = [
@@ -30,6 +31,8 @@ const Goals = () => {
     }
   ];
   return (
+    <>
+<MobileTab/>
     <div className="py-6 p-4 flex flex-col justify-between h-screen">
     
 
@@ -61,6 +64,7 @@ const Goals = () => {
         <p>Confirm</p>
       </Button>
     </div>
+    </>
   );
 };
 

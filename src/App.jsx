@@ -11,7 +11,7 @@ function App() {
   
 
   return (
-  <div className="mx-auto max-w-[375px] min-h-screen border-blue-300 border rounded-sm">
+  <div className="mx-auto max-w-[385px] min-h-screen  border-blue-600 border rounded-sm">
      <Routes>
     <Route path='/' element={<Home/>} />
     <Route path='signin' element={<SignIn/>}/>

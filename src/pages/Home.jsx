@@ -5,6 +5,7 @@ import GetBurnImg from '../assets/GetBurn.png'
 import { FaChevronRight } from "react-icons/fa";
 import RenderStep from '../components/HomePage/RenderStep';
 import { useNavigate } from 'react-router-dom';
+import MobileTab from '../components/MobileTab';
 const Home = () => {
     const [step , setStep]=useState(1)
     const navigate=useNavigate()
@@ -17,6 +18,9 @@ const Home = () => {
         }
     }
   return (
+    <>
+
+    <MobileTab/>
     <div className='flex p-4 min-h-screen flex-col justify-between gap-[50px] '>
         <p className='underline text-right text-[#9FB2FF] font-montserrat text-base font-medium '>
             <Link to={'/signup'}>Skip</Link>
@@ -28,6 +32,7 @@ const Home = () => {
             </div>
         </button>
     </div>
+    </>
   )
 }
 

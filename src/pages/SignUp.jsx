@@ -3,9 +3,12 @@ import Button from '../components/Common/Button'
 import Socials from '../components/Common/Socials'
 import { Link } from 'react-router-dom'
 import { useNavigate } from 'react-router-dom'
+import MobileTab from '../components/MobileTab'
 const SignUp = () => {
     const navigate=useNavigate()
   return (
+    <>
+        <MobileTab/>
     <div className='flex p-4 flex-col justify-between h-screen'>
        
    <form className=''>
@@ -51,6 +54,7 @@ const SignUp = () => {
    </div>
 
     </div>
+    </>
   )
 }
 

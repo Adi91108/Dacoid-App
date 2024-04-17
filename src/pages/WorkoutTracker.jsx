@@ -7,6 +7,7 @@ import ToggleButton from '../components/Common/ToggleButton';
 import g from '../assets/g.png'
 import { useNavigate } from 'react-router-dom';
 import { Chart } from '../components/WorkoutTracker/Chart';
+import MobileTab from '../components/MobileTab';
 const WorkoutTracker = () => {
     const navigate=useNavigate()
     const upcomingWorkouts = [
@@ -23,6 +24,9 @@ const WorkoutTracker = () => {
     ]
 
   return (
+    <>
+<MobileTab/>
+
     <div className='relative p-4 w-full h-full'>
         <div className='flex flex-row items-center mb-[50px] '>
             <button className='inline rounded-md bg-gray-50 p-1'>
@@ -76,6 +80,7 @@ const WorkoutTracker = () => {
 
         </div>
     </div>
+    </>
   )
 }
 
