@@ -1,3 +1,8 @@
+![Landing Page]([image_url](https://github.com/Adi91108/Dacoid-App/blob/main/public/images/ScreenShots/Screenshot_2024418_220950.png))
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
