@@ -1,6 +1,16 @@
-![Landing Page] ([image_url](https://github.com/Adi91108/Dacoid-App/blob/main/public/images/ScreenShots/Screenshot_2024418_220950.png))
+![Screenshot (288)](https://github.com/Adi91108/Dacoid-App/blob/main/public/images/ScreenShots/Screenshot_2024418_220950.png)
 
-![Screenshot (288)](https://github.com/Adi91108/Dacoid-App/blob/main/public/images/ScreenShots/Screenshot_2024418_220950)
+![Screenshot (288)](https://github.com/Adi91108/Dacoid-App/blob/main/public/images/ScreenShots/Screenshot_2024418_221035.png)
+
+![Screenshot (288)](https://github.com/Adi91108/Dacoid-App/blob/main/public/images/ScreenShots/Screenshot_2024418_221102.png)
+
+![Screenshot (288)](https://github.com/Adi91108/Dacoid-App/blob/main/public/images/ScreenShots/Screenshot_2024418_221117.png)
+
+![Screenshot (288)](https://github.com/Adi91108/Dacoid-App/blob/main/public/images/ScreenShots/Screenshot_2024418_221135.png)
+
+![Screenshot (288)](https://github.com/Adi91108/Dacoid-App/blob/main/public/images/ScreenShots/Screenshot_2024418_221155.png)
+
+![Screenshot (288)](https://github.com/Adi91108/Dacoid-App/blob/main/public/images/ScreenShots/Screenshot_2024418_221209.png)
 
 
 
