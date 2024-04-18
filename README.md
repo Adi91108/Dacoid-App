@@ -1,5 +1,6 @@
 ![Landing Page] ([image_url](https://github.com/Adi91108/Dacoid-App/blob/main/public/images/ScreenShots/Screenshot_2024418_220950.png))
 
+![Screenshot (288)](https://github.com/Adi91108/Dacoid-App/blob/main/public/images/ScreenShots/Screenshot_2024418_220950)
 
 
 
